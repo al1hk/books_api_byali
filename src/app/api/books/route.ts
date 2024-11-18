@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-export let books = [
+let books = [
   {
     id: 1,
     title: "Rich Dad Poor Dad",
